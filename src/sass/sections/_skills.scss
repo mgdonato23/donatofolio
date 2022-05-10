@@ -1,0 +1,16 @@
+#skills {
+  .skills {
+    display: flex;
+    flex-wrap: wrap;
+    &__skill {
+      padding: 1rem 2rem;
+      margin-bottom: 1.5rem;
+      margin-right: 1.5rem;
+      font-size: 1.6rem;
+      background: rgba(#00cdac, 0.6);
+      border-radius: 1px;
+      font-weight: 600;
+      color: #fff;
+    }
+  }
+}
