@@ -3,8 +3,7 @@
   width: 100%;
   z-index: 1000;
   box-shadow: 0 10px 100px rgba(0, 0, 0, 0.1);
-  background: $white-color;
-  color: $dark-blue-text;
+  background-color: $dark-grey;
 
   .header {
     &__content {
@@ -21,7 +20,7 @@
       display: flex;
       align-items: center;
       cursor: pointer;
-      color: #333;
+      color: $white-color;
       transition: color 0.3s;
 
       &:hover {
@@ -65,7 +64,7 @@
       padding: 2.2rem 3rem;
       display: inline-block;
       font-size: 1.6rem;
-      color: #333;
+      color: $white-color;
       text-transform: uppercase;
       letter-spacing: 1px;
       font-weight: 700;
