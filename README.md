@@ -4,7 +4,7 @@ Bem-vindo ao **Donatofolio**, um portfólio pessoal desenvolvido para destacar p
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Frontend**: React, Sass
+- **Frontend**: HTML, Sass, JavaScript Puro
 - **Build Tool**: Parcel
 - **Outras Dependências**:
   - Vanilla Tilt
@@ -12,20 +12,6 @@ Bem-vindo ao **Donatofolio**, um portfólio pessoal desenvolvido para destacar p
   - Popper.js
   - Outros (consulte o `package.json` para a lista completa)
 
-## 📂 Estrutura do Projeto
-
-```plaintext
-donatofolio/
-├── src/
-│   ├── assets/         # Imagens, fontes e outros recursos estáticos
-│   ├── components/     # Componentes React reutilizáveis
-│   ├── sass/           # Estilos organizados em arquivos SCSS
-│   └── index.js        # Ponto de entrada do aplicativo
-├── dist/               # Arquivos gerados para produção
-├── .parcel-cache/      # Cache do Parcel (não deve ser versionado)
-├── package.json        # Configuração do projeto e dependências
-└── README.md           # Documentação do projeto
-```
 
 ## 🌟 Funcionalidades
 
